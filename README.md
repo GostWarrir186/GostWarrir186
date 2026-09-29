@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Azambek Alimbaev — Python Developer · Tajikistan"/>
 
 <a href="https://github.com/GostWarrir186">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=24&duration=3200&pause=900&color=F8C300&center=true&vCenter=true&width=700&height=40&lines=Пишу+бэкенд+на+Python+и+FastAPI;Автоматизирую+рутину+с+Excel+и+API;Делаю+Telegram-ботов+и+WebApp;Разворачиваю+всё+в+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&amp;weight=600&amp;size=24&amp;duration=3200&amp;pause=900&amp;color=F8C300&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=40&amp;lines=%D0%9F%D0%B8%D1%88%D1%83+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+%D0%BD%D0%B0+Python+%D0%B8+FastAPI;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D1%80%D1%83%D1%82%D0%B8%D0%BD%D1%83+%D1%81+Excel+%D0%B8+API;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+Telegram-%D0%B1%D0%BE%D1%82%D0%BE%D0%B2+%D0%B8+WebApp;%D0%A0%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D1%8E+%D0%B2%D1%81%D1%91+%D0%B2+Docker" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/badge/Tajikistan-d52b1e?style=for-the-badge&labelColor=00873e" />
@@ -79,11 +79,11 @@
 <p align="center"><img src="assets/title-stats.svg" height="44" alt="Stats"/></p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GostWarrir186&theme=outrun" />
+  <img width="100%" src="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/main/profile-summary-card-output/outrun/0-profile-details.svg" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GostWarrir186&theme=outrun" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GostWarrir186&theme=outrun" />
+  <img width="49%" src="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/main/profile-summary-card-output/outrun/3-stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/main/profile-summary-card-output/outrun/1-repos-per-language.svg" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GostWarrir186&background=1F1440&border=F8C300&stroke=F8C300&ring=D52B1E&fire=F8C300&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F8C300&sideLabels=F8C300&dates=C9B8E8" />
