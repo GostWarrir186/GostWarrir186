@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Azambek Alimbaev — Python Developer · Tajikistan"/>
 
 <a href="https://github.com/GostWarrir186">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3200&pause=900&color=F8C300&center=true&vCenter=true&width=700&height=40&lines=Пишу+бэкенд+на+Python+и+FastAPI;Автоматизирую+рутину+с+Excel+и+API;Делаю+Telegram-ботов+и+WebApp;Разворачиваю+всё+в+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=24&duration=3200&pause=900&color=F8C300&center=true&vCenter=true&width=700&height=40&lines=Пишу+бэкенд+на+Python+и+FastAPI;Автоматизирую+рутину+с+Excel+и+API;Делаю+Telegram-ботов+и+WebApp;Разворачиваю+всё+в+Docker" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/badge/Tajikistan-d52b1e?style=for-the-badge&labelColor=00873e" />
