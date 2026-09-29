@@ -80,9 +80,4 @@
 <p align="center"><img src="assets/stats.svg" width="100%" alt="GitHub stats"/></p>
 <p align="center"><img src="assets/calendar.svg" width="100%" alt="Contributions"/></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/output/snake.svg" width="100%" />
-</picture>
-
 <img src="assets/footer.svg" width="100%" alt="Раҳмат барои ташриф!"/>
