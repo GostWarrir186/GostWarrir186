@@ -77,13 +77,8 @@
 
 <p align="center"><img src="assets/title-stats.svg" height="44" alt="Stats"/></p>
 
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/main/profile-summary-card-output/outrun/3-stats.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/main/profile-summary-card-output/outrun/1-repos-per-language.svg" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GostWarrir186&background=1F1440&border=F8C300&stroke=F8C300&ring=D52B1E&fire=F8C300&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F8C300&sideLabels=F8C300&dates=C9B8E8" />
-</p>
+<p align="center"><img src="assets/stats.svg" width="100%" alt="GitHub stats"/></p>
+<p align="center"><img src="assets/calendar.svg" width="100%" alt="Contributions"/></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/output/snake-dark.svg" />
