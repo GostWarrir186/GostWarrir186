@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&amp;weight=600&amp;size=24&amp;duration=3200&amp;pause=900&amp;color=F8C300&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=40&amp;lines=%D0%9F%D0%B8%D1%88%D1%83+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+%D0%BD%D0%B0+Python+%D0%B8+FastAPI;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D1%80%D1%83%D1%82%D0%B8%D0%BD%D1%83+%D1%81+Excel+%D0%B8+API;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+Telegram-%D0%B1%D0%BE%D1%82%D0%BE%D0%B2+%D0%B8+WebApp;%D0%A0%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D1%8E+%D0%B2%D1%81%D1%91+%D0%B2+Docker" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/badge/Tajikistan-d52b1e?style=for-the-badge&labelColor=00873e" />
-<img src="https://img.shields.io/badge/Python-Developer-f8c300?style=for-the-badge&labelColor=1f1440" />
+<p><img src="https://img.shields.io/badge/📍_Tajikistan-d52b1e?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-Developer-f8c300?style=for-the-badge&labelColor=1f1440" /> <img src="https://img.shields.io/badge/Open_to-collaboration-00873e?style=for-the-badge&labelColor=1f1440" /></p>
 
 </div>
 
@@ -78,9 +77,6 @@
 
 <p align="center"><img src="assets/title-stats.svg" height="44" alt="Stats"/></p>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/main/profile-summary-card-output/outrun/0-profile-details.svg" />
-</p>
 <p align="center">
   <img width="49%" src="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/main/profile-summary-card-output/outrun/3-stats.svg" />
   <img width="49%" src="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/main/profile-summary-card-output/outrun/1-repos-per-language.svg" />
