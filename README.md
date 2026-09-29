@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b6e4f,100:14b8a6&height=180&section=header&text=Azambek%20Alimbaev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20·%20Automation%20·%20Telegram%20Bots&descAlignY=58&descSize=16" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Azambek Alimbaev — Python Developer · Tajikistan"/>
 
 <a href="https://github.com/GostWarrir186">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=600&lines=Пишу+бэкенд+на+Python+и+FastAPI;Автоматизирую+рутину+с+Excel+и+API;Делаю+Telegram-ботов+и+WebApp;Разворачиваю+всё+в+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3200&pause=900&color=F8C300&center=true&vCenter=true&width=700&height=40&lines=Пишу+бэкенд+на+Python+и+FastAPI;Автоматизирую+рутину+с+Excel+и+API;Делаю+Telegram-ботов+и+WebApp;Разворачиваю+всё+в+Docker" alt="Typing SVG" />
 </a>
 
-📍 Tajikistan
+<img src="https://img.shields.io/badge/Tajikistan-d52b1e?style=for-the-badge&labelColor=00873e" />
+<img src="https://img.shields.io/badge/Python-Developer-f8c300?style=for-the-badge&labelColor=1f1440" />
 
 </div>
 
----
+<br/>
 
-### 👋 Обо мне
+<p align="center"><img src="assets/title-about.svg" height="44" alt="About me"/></p>
 
 - 🐍 Разрабатываю бэкенд на **Python** — FastAPI, Flask
 - 🤖 Делаю **Telegram-ботов** и Telegram WebApp для бизнеса
@@ -20,7 +21,9 @@
 - 🐳 Разворачиваю сервисы в **Docker** за nginx на собственных серверах
 - 🌱 Сейчас изучаю: AI-интеграции (LLM API) и архитектуру веб-приложений
 
-### 🛠️ Стек
+<img src="assets/divider.svg" width="100%"/>
+
+<p align="center"><img src="assets/title-stack.svg" height="44" alt="Tech stack"/></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sqlite,docker,nginx,linux&theme=dark" />
@@ -28,7 +31,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 </p>
 
-### 🚀 Проекты
+<img src="assets/divider.svg" width="100%"/>
+
+<p align="center"><img src="assets/title-projects.svg" height="44" alt="Projects"/></p>
 
 <table>
 <tr>
@@ -69,17 +74,19 @@
 </tr>
 </table>
 
-### 📈 Статистика
+<img src="assets/divider.svg" width="100%"/>
+
+<p align="center"><img src="assets/title-stats.svg" height="44" alt="Stats"/></p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GostWarrir186&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GostWarrir186&theme=outrun" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GostWarrir186&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GostWarrir186&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GostWarrir186&theme=outrun" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GostWarrir186&theme=outrun" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GostWarrir186&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=GostWarrir186&background=1F1440&border=F8C300&stroke=F8C300&ring=D52B1E&fire=F8C300&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F8C300&sideLabels=F8C300&dates=C9B8E8" />
 </p>
 
 <picture>
@@ -87,4 +94,4 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/GostWarrir186/GostWarrir186/output/snake.svg" width="100%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0b6e4f&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt="Раҳмат барои ташриф!"/>
